@@ -1,0 +1,155 @@
+- generic [ref=f6e2]:
+  - generic [ref=f6e3]:
+    - complementary [ref=f6e6]:
+      - generic [ref=f6e7]: Proposa
+      - navigation [ref=f6e13]:
+        - link "Dashboard" [ref=f6e14] [cursor=pointer]:
+          - /url: /dashboard
+        - link "Clients" [ref=f6e21] [cursor=pointer]:
+          - /url: /clients
+        - link "Services" [ref=f6e28] [cursor=pointer]:
+          - /url: /services
+        - link "Proposals" [ref=f6e33] [cursor=pointer]:
+          - /url: /proposals
+        - link "Settings" [ref=f6e38] [cursor=pointer]:
+          - /url: /settings
+      - generic [ref=f6e44]:
+        - generic [ref=f6e45]: AS
+        - generic [ref=f6e47]:
+          - paragraph [ref=f6e48]: Acme Studio
+          - paragraph [ref=f6e49]: Local demo
+    - main [ref=f6e405]:
+      - generic [ref=f6e407]:
+        - generic [ref=f6e408]:
+          - button [ref=f6e409]
+          - generic [ref=f6e410]:
+            - textbox "Proposal title" [ref=f6e411]: A High-Converting Marketing Website for Acme Corp — Designed to Turn Visitors into Customers
+            - paragraph [ref=f6e412]: Jane Smith · Acme Corp · Website
+          - generic [ref=f6e413]: Accepted
+          - generic [ref=f6e416]:
+            - button "Save Draft" [ref=f6e417]
+            - button "Copy Share Link" [ref=f6e418]
+            - button "Preview" [ref=f6e419]
+            - button "Send to Client" [ref=f6e420]
+        - generic [ref=f6e421]:
+          - generic [ref=f6e422]:
+            - generic [ref=f6e427]: "1"
+            - text: views
+          - generic [ref=f6e428]: Last viewed about 23 hours ago
+        - generic [ref=f6e429]:
+          - generic [ref=f6e431]:
+            - generic [ref=f6e432]:
+              - button "Bold" [ref=f6e433]
+              - button "Italic" [ref=f6e436]
+              - button "Underline" [ref=f6e439]
+              - button "Strikethrough" [ref=f6e442]
+              - button "H1" [ref=f6e446]
+              - button "H2" [ref=f6e449]
+              - button "H3" [ref=f6e452]
+              - button "Bullet list" [ref=f6e456]
+              - button "Numbered list" [ref=f6e458]
+              - button "Quote" [ref=f6e462]
+              - button "Link" [ref=f6e466]
+              - button "Undo" [ref=f6e470]
+              - button "Redo" [ref=f6e474]
+            - generic [ref=f6e478]:
+              - heading "A High-Converting Marketing Website for Acme Corp — Designed to Turn Visitors into Customers" [level=1] [ref=f6e479]
+              - heading "Executive Summary" [level=2] [ref=f6e480]
+              - paragraph [ref=f6e481]: "Your website is often the first conversation a potential customer has with your brand — and in most cases, it's the conversation that decides whether they buy from you or move on to a competitor. A generic, template-driven site simply doesn't earn that trust. What Acme Corp needs is a marketing website engineered from the ground up to convert: one that communicates your value in seconds, guides visitors toward a clear next step, and looks as professional as the work you do."
+              - paragraph [ref=f6e482]: Acme Studio specializes in building exactly that. We combine conversion-focused design thinking with clean, responsive development and a brand identity system that makes your business instantly recognizable across every touchpoint. We don't just hand over pixels — we build a digital foundation that actively contributes to revenue growth.
+              - paragraph [ref=f6e483]: This proposal outlines a focused, four-week engagement to deliver a custom marketing website and brand identity package for Acme Corp. It's built to be efficient, transparent, and — most importantly — profitable for your business.
+              - heading "Scope of Work" [level=2] [ref=f6e484]
+              - paragraph [ref=f6e485]:
+                - strong [ref=f6e486]: "Deliverable 1: Website Design & Development"
+              - list [ref=f6e487]:
+                - listitem [ref=f6e488]: ✓ Discovery and conversion strategy session to define goals, audience, and key user journeys
+                - listitem [ref=f6e489]: ✓ Custom, conversion-focused visual design tailored to your brand and audience
+                - listitem [ref=f6e490]: ✓ Responsive development across desktop, tablet, and mobile devices
+                - listitem [ref=f6e491]: ✓ Content Management System (CMS) integration so your team can update content without touching code
+                - listitem [ref=f6e492]: "✓ Search engine optimization fundamentals: semantic structure, metadata, clean URLs, performance optimization, and accessibility best practices"
+                - listitem [ref=f6e493]: ✓ Cross-browser and cross-device testing prior to launch
+                - listitem [ref=f6e494]: ✓ Launch support and post-launch monitoring
+              - paragraph [ref=f6e495]:
+                - strong [ref=f6e496]: "Deliverable 2: Brand Identity Design"
+              - list [ref=f6e497]:
+                - listitem [ref=f6e498]: ✓ Primary logo with alternate lockups and usage variations
+                - listitem [ref=f6e499]: ✓ Complete logo suite including primary, secondary, and icon marks
+                - listitem [ref=f6e500]: ✓ Curated color palette with defined primary, secondary, and accent colors
+                - listitem [ref=f6e501]: ✓ Typography system with hierarchy guidelines across web and print
+                - listitem [ref=f6e502]: ✓ Comprehensive brand guidelines document covering logo usage, color application, typography, voice, and visual style
+                - listitem [ref=f6e503]: ✓ Final asset package delivered in all required formats (SVG, PNG, EPS, PDF)
+              - heading "Timeline" [level=2] [ref=f6e504]
+              - paragraph [ref=f6e505]: "Total engagement: 4 weeks from project start."
+              - list [ref=f6e506]:
+                - listitem [ref=f6e507]:
+                  - text: ✓
+                  - strong [ref=f6e508]: "Week 1 — Discovery & Strategy:"
+                  - text: Kickoff workshop, audience research, conversion strategy, sitemap, and content planning. Brand discovery session to define direction and inspiration.
+                - listitem [ref=f6e509]:
+                  - text: ✓
+                  - strong [ref=f6e510]: "Week 2 — Design & Identity:"
+                  - text: Logo concepts, color and typography exploration, website wireframes, and high-fidelity mockups for key pages. Client review and feedback round.
+                - listitem [ref=f6e511]:
+                  - text: ✓
+                  - strong [ref=f6e512]: "Week 3 — Development & Refinement:"
+                  - text: Responsive build, CMS integration, content entry, and SEO foundation. Brand guidelines drafted and design refinements implemented.
+                - listitem [ref=f6e513]:
+                  - text: ✓
+                  - strong [ref=f6e514]: "Week 4 — Testing, Launch & Handoff:"
+                  - text: Cross-browser testing, final QA, client training on the CMS, brand guideline delivery, and website launch.
+              - heading "Investment" [level=2] [ref=f6e515]
+              - paragraph [ref=f6e516]:
+                - text: This engagement is scoped and priced based on a project fee within the
+                - strong [ref=f6e517]: $5,000 – $15,000
+                - text: range, with the final figure determined by the complexity of the design, the number of pages and templates, and the depth of the brand identity package. A precise, fixed-price proposal will be provided after our discovery session, so you know exactly what you're investing before any work begins.
+              - paragraph [ref=f6e518]: Given the four-week timeline and the dual scope of work included in this engagement, we anticipate landing toward the middle to upper portion of the range to reflect the combined website and brand identity delivery.
+              - heading "Terms & Conditions" [level=2] [ref=f6e519]
+              - list [ref=f6e520]:
+                - listitem [ref=f6e521]:
+                  - text: ✓
+                  - strong [ref=f6e522]: "Deposit:"
+                  - text: A 50% deposit is required to secure your project slot and initiate work. The remaining 50% is due upon project completion, prior to final file delivery and website launch.
+                - listitem [ref=f6e523]:
+                  - text: ✓
+                  - strong [ref=f6e524]: "Payment Schedule:"
+                  - text: For longer engagements, milestone-based payment schedules can be arranged and will be outlined in the final agreement.
+                - listitem [ref=f6e525]:
+                  - text: ✓
+                  - strong [ref=f6e526]: "Revisions Policy:"
+                  - text: Each project phase includes two (2) rounds of revisions. Additional revision rounds are billed at our standard hourly rate and will be communicated in advance.
+                - listitem [ref=f6e527]:
+                  - text: ✓
+                  - strong [ref=f6e528]: "Client Responsibilities:"
+                  - text: Timely feedback, content delivery (copy, photography, branding inputs), and approvals are required to maintain the project timeline. Delays in client deliverables may extend the project completion date.
+                - listitem [ref=f6e529]:
+                  - text: ✓
+                  - strong [ref=f6e530]: "Ownership:"
+                  - text: Upon final payment, full ownership of all deliverables transfers to Acme Corp, including source files, final assets, and website code.
+                - listitem [ref=f6e531]:
+                  - text: ✓
+                  - strong [ref=f6e532]: "Cancellation:"
+                  - text: Either party may terminate the agreement with written notice. If the project is canceled, the client is responsible for payment of all work completed to date. The initial deposit is non-refundable.
+                - listitem [ref=f6e533]:
+                  - text: ✓
+                  - strong [ref=f6e534]: "Confidentiality:"
+                  - text: All proprietary information shared during the engagement will be treated as confidential by both parties.
+              - heading "Call to Action" [level=2] [ref=f6e535]
+              - paragraph [ref=f6e536]: Your competitors are investing in their digital presence right now. Every week your new website isn't live is a week of lost leads, missed conversions, and untapped revenue. Acme Studio is ready to move — and with a four-week timeline, we can have your new website and brand identity in market before the quarter closes.
+              - paragraph [ref=f6e537]:
+                - strong [ref=f6e538]: Let's schedule a 30-minute discovery call this week
+                - text: to walk through your goals, answer your questions, and finalize the engagement. Reach out today to lock in your project start date and give Acme Corp the marketing website it deserves.
+          - generic [ref=f6e541]:
+            - generic [ref=f6e547]:
+              - paragraph [ref=f6e548]: Proposal Editor
+              - paragraph [ref=f6e549]: Edit and refine your proposal
+            - generic [ref=f6e550]:
+              - button "Make more formal" [ref=f6e551]
+              - button "Add urgency" [ref=f6e555]
+              - button "Reduce scope by 20%" [ref=f6e558]
+              - button "Add payment terms" [ref=f6e565]
+              - button "Follow-up email" [ref=f6e568]
+            - paragraph [ref=f6e577]: Ask me to rewrite sections, tighten the tone, add payment terms, or draft a follow-up email.
+            - generic [ref=f6e579]:
+              - textbox "Ask me to modify your proposal..." [ref=f6e580]
+              - button "Send message" [disabled]
+  - region "Notifications alt+T"

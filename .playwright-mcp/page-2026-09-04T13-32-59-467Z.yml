@@ -1,0 +1,8 @@
+- generic [ref=f4e2]:
+  - generic [ref=f4e3]:
+    - generic [ref=f4e4]:
+      - button "Open navigation" [ref=f4e5]:
+        - generic [ref=f4e7]: Proposa
+      - generic [ref=f4e13]: AS
+    - main [ref=f4e15]
+  - region "Notifications alt+T"

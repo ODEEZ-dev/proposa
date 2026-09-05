@@ -1,0 +1,49 @@
+- generic [ref=f6e1]:
+  - generic [ref=f6e2]:
+    - generic [ref=f6e3]:
+      - generic [ref=f6e6]:
+        - button "Open navigation" [ref=f6e7]:
+          - generic [ref=f6e9]: Proposa
+        - generic [ref=f6e15]: AS
+      - complementary [ref=f6e299]:
+        - generic [ref=f6e300]:
+          - generic [ref=f6e301]: Proposa
+          - button "Close navigation" [ref=f6e307]
+        - navigation [ref=f6e311]:
+          - link "Dashboard" [ref=f6e312] [cursor=pointer]:
+            - /url: /dashboard
+          - link "Clients" [active] [ref=f6e319] [cursor=pointer]:
+            - /url: /clients
+          - link "Services" [ref=f6e326] [cursor=pointer]:
+            - /url: /services
+          - link "Proposals" [ref=f6e331] [cursor=pointer]:
+            - /url: /proposals
+          - link "Settings" [ref=f6e336] [cursor=pointer]:
+            - /url: /settings
+        - generic [ref=f6e342]:
+          - generic [ref=f6e343]: AS
+          - generic [ref=f6e345]:
+            - paragraph [ref=f6e346]: Acme Studio
+            - paragraph [ref=f6e347]: Local demo
+      - main [ref=f6e348]:
+        - generic [ref=f6e350]:
+          - generic [ref=f6e351]:
+            - generic [ref=f6e352]:
+              - heading "Clients" [level=1] [ref=f6e353]
+              - paragraph [ref=f6e354]: Manage your client relationships
+            - button "Add Client" [ref=f6e355]
+          - generic [ref=f6e357] [cursor=pointer]:
+            - generic [ref=f6e358]:
+              - generic [ref=f6e359]: JS
+              - generic [ref=f6e361]:
+                - heading "Jane Smith" [level=3] [ref=f6e362]
+                - paragraph [ref=f6e363]: Acme Corp
+            - generic [ref=f6e364]: jane@acme.com
+            - generic [ref=f6e366]:
+              - generic [ref=f6e367]:
+                - text: 14 proposals·
+                - generic [ref=f6e368]: 100%
+                - text: win rate
+              - generic [ref=f6e369]: View Details
+    - region "Notifications alt+T"
+  - generic [aria-hidden] [ref=f6e297]: "0"
